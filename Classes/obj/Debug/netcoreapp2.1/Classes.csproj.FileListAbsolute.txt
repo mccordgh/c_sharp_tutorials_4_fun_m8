@@ -1,0 +1,11 @@
+/Users/matthewmccord/workspace/c_sharp/tutorials/Classes/bin/Debug/netcoreapp2.1/Classes.deps.json
+/Users/matthewmccord/workspace/c_sharp/tutorials/Classes/bin/Debug/netcoreapp2.1/Classes.runtimeconfig.json
+/Users/matthewmccord/workspace/c_sharp/tutorials/Classes/bin/Debug/netcoreapp2.1/Classes.runtimeconfig.dev.json
+/Users/matthewmccord/workspace/c_sharp/tutorials/Classes/bin/Debug/netcoreapp2.1/Classes.dll
+/Users/matthewmccord/workspace/c_sharp/tutorials/Classes/bin/Debug/netcoreapp2.1/Classes.pdb
+/Users/matthewmccord/workspace/c_sharp/tutorials/Classes/obj/Debug/netcoreapp2.1/Classes.csprojAssemblyReference.cache
+/Users/matthewmccord/workspace/c_sharp/tutorials/Classes/obj/Debug/netcoreapp2.1/Classes.csproj.CoreCompileInputs.cache
+/Users/matthewmccord/workspace/c_sharp/tutorials/Classes/obj/Debug/netcoreapp2.1/Classes.AssemblyInfoInputs.cache
+/Users/matthewmccord/workspace/c_sharp/tutorials/Classes/obj/Debug/netcoreapp2.1/Classes.AssemblyInfo.cs
+/Users/matthewmccord/workspace/c_sharp/tutorials/Classes/obj/Debug/netcoreapp2.1/Classes.dll
+/Users/matthewmccord/workspace/c_sharp/tutorials/Classes/obj/Debug/netcoreapp2.1/Classes.pdb
